@@ -8,3 +8,4 @@ int a = 500;
 Console.WriteLine("Primo={0}", a);
 //interpolazione di sringhe 
 Console.WriteLine($"primo={a}");
+
