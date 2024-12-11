@@ -24,4 +24,12 @@ long d = 1_000_000;
 Console.WriteLine("Quarto={0}", d);
 Console.WriteLine($"quarto={d}");
 
+int e = 0b10101010;
 
+Console.WriteLine("Quinto={0}", e);
+Console.WriteLine($"quinto={e}");
+
+ushort f = 0x0A56;
+
+Console.WriteLine("Sesto={0}", f);
+Console.WriteLine($"sesto={f}");
