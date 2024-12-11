@@ -1,0 +1,15 @@
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\IntegralTypes\bin\Debug\net8.0\IntegralTypes.exe
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\IntegralTypes\bin\Debug\net8.0\IntegralTypes.deps.json
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\IntegralTypes\bin\Debug\net8.0\IntegralTypes.runtimeconfig.json
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\IntegralTypes\bin\Debug\net8.0\IntegralTypes.dll
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\IntegralTypes\bin\Debug\net8.0\IntegralTypes.pdb
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\IntegralTypes\obj\Debug\net8.0\IntegralTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\IntegralTypes\obj\Debug\net8.0\IntegralTypes.AssemblyInfoInputs.cache
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\IntegralTypes\obj\Debug\net8.0\IntegralTypes.AssemblyInfo.cs
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\IntegralTypes\obj\Debug\net8.0\IntegralTypes.csproj.CoreCompileInputs.cache
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\IntegralTypes\obj\Debug\net8.0\IntegralTypes.sourcelink.json
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\IntegralTypes\obj\Debug\net8.0\IntegralTypes.dll
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\IntegralTypes\obj\Debug\net8.0\refint\IntegralTypes.dll
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\IntegralTypes\obj\Debug\net8.0\IntegralTypes.pdb
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\IntegralTypes\obj\Debug\net8.0\IntegralTypes.genruntimeconfig.cache
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\IntegralTypes\obj\Debug\net8.0\ref\IntegralTypes.dll
